@@ -220,7 +220,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-###Adithya Gowda
+### Adithya Gowda
 
 Machine Learning & AI Enthusiast
 
