@@ -11,7 +11,7 @@ The system uses Natural Language Processing (NLP) and Machine Learning technique
 ## 🌐 Live Application
 
 🔗 Try the dashboard here:
-https://futureml03-xoq47y6p3xhgn4ccqj772j.streamlit.app/
+https://futuremlo3-bw4lhx6qjh4krjcultdl3d.streamlit.app/
 
 ---
 
@@ -220,12 +220,12 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-### Deepak Chakrasali
+###Adithya Gowda
 
 Machine Learning & AI Enthusiast
 
 ### GitHub
 
-https://github.com/Deepakchakra
+https://github.com/Adigowda0902
 
 ---
